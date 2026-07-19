@@ -11,7 +11,7 @@ from django.core.exceptions import ValidationError
 
 validate = URLValidator()
 
-#Lets start coding
+lets start coding
 from datetime import datetime
 now = datetime.now()
 hour = now.hour
@@ -20,23 +20,23 @@ day = now.day
 month = now.month
 year = now.year
 
-#Lets define sock and bytes
+Lets define sock and bytes
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system("clear")
 #Banner :
 print("""
 ███████╗ ██████╗ ██████╗  ██████╗███████╗██╗   ██╗██████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝██║   ██║╚════██╗
-█████╗  ██║   ██║██████╔╝██║     █████╗  ██║   ██║ █████╔╝
-██╔══╝  ██║   ██║██╔══██╗██║     ██╔══╝  ╚██╗ ██╔╝██╔═══╝
-██║     ╚██████╔╝██║  ██║╚██████╗███████╗ ╚████╔╝ ███████╗
-╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝  ╚═══╝  ╚══════╝                        
+██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝██║   ██║╚════██╗    *
+█████╗  ██║   ██║██████╔╝██║     █████╗  ██║   ██║ █████╔╝      *
+██╔══╝  ██║   ██║██╔══██╗██║     ██╔══╝  ╚██╗ ██╔╝██╔═══╝       *
+██║     ╚██████╔╝██║  ██║╚██████╗███████╗ ╚████╔╝ ███████╗     *
+╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝  ╚═══╝  ╚══════╝     *                   
 *                                                 
 *                                                                     *   
 *                                                                     *
 *             HTTP Unbearable Load King                               *
-*            Author: Sumalya Chatterjee                               *
+*            Author: unknown_identified_user                          *
 ********* *************************************************************
     ************************************************
     *                                              *    
@@ -44,7 +44,7 @@ print("""
     *  1. Don't Use For Personal Revenges          *
     *  2. Author Is Not Responsible For Your Jobs  *
     *  3. Use for learning purposes                * 
-    *  4. Does HULK suit in villain role, huh?     *
+    *  4. Does FORCE suit in villain role, huh?    *
     ************************************************
 	''')
 #Type your ip and port number (find IP address using nslookup or any online website) 
@@ -54,7 +54,7 @@ os.system("clear")
 print('''
     ************************************************       
     *                FORCE DOS ATTACKER            *
-    *              BRUTE FORCER                    *
+    *              BRUTE FORCER  for ckikn         *
     *                                              *
     *          HTTP Unbearable Load King           *
     *          Author: unknown_identified_user     *
