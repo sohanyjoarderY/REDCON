@@ -1,2 +1,3 @@
-# REDCON
+# FORCE 
 Just another ddos
+ONLY FOR EDUCATIONAL USE
