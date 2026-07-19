@@ -42,12 +42,12 @@ print("""
     *                                              *    
     *  [!] Disclaimer :                            *
     *  1. Don't Use For Personal Revenges          *
-    *  2. Author Is Not Responsible For Your Jobs  *
-    *  3. Use for learning purposes                * 
-    *  4. Does FORCE suit in villain role, huh?    *
+    *  2. Author Is Not Responsible For Your attak *
+    *  3. Use for learning purposes and not atack  * 
+    *  4. Does FORCE suit in a skiddy role, huh?   *
     ************************************************
 	''')
-#Type your ip and port number (find IP address using nslookup or any online website) 
+Type your ip and port number (find IP address using nslookup or any online website) 
 ip = input(" [+] Give HULK A Target IP : ")
 port = eval(input(" [+] Starting Port NO : "))
 os.system("clear")
